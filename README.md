@@ -1,4 +1,4 @@
-# nuxt
+# Nuxt e Vuetify
 
 Link para visualização https://pokeapi-brown.vercel.app/
 
