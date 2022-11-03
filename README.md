@@ -1,5 +1,7 @@
 # nuxt
 
+Link para visualização https://pokeapi-brown.vercel.app/
+
 ## Build Setup
 
 ```bash
